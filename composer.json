@@ -1,0 +1,11 @@
+{
+    "name": "moustacheful/changeorg-client",
+    "description": "CURL Client for change.org's API",
+    "authors": [
+        {
+            "name": "Daniel Acuna",
+            "email": "suchious@gmail.com"
+        }
+    ],
+    "require": {}
+}
